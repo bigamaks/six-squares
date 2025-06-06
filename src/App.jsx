@@ -48,7 +48,7 @@ function App() {
     alignItems: "center",
     height: "100vh",
     margin: "0px auto",
-    overflow: "hidden"
+    overflow: "hidden",
     // marginLeft: "500px"
 
   }}>
